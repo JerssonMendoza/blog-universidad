@@ -14,4 +14,6 @@ Es un proyecto dedicado al crecimiento de la comunidad universitaria a través d
 
 [Roadmap]
 
-[Licencia
+[Licencia]
+
+[Agradecimiento]
